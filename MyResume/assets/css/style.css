@@ -1206,4 +1206,11 @@ section {
 
 #footer .credits {
   font-size: 13px;
+
+}
+
+.img-fluid {
+	width: 260px;
+	height: 400px;
+
 }
